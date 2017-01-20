@@ -8,7 +8,7 @@ Things included in this project:
 	-Stores each defense (for autobreach buttons if we ever need 'em)
 	-Starting position selection
 	-Auto mode selection (many just for testing)
-		-Full Auto=Breach,shoot w/ vision
+		-Full Auto=Breach,shoot w/ visions
 		-'' w/ return=Back up (under low bar ONLY)
 		-Breach only
 		-Reach only forward/reverse (see below)
